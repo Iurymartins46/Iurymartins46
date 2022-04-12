@@ -1,8 +1,5 @@
 ## Olá! Eu sou o Iury Martins 
 
-
-- 🌱 Estou atualmente fazendo graduação em Ciência da Computação
-
 <div align="center">
   <a href="https://github.com/Iurymartins46">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iurymartins46&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
