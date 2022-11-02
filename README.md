@@ -15,5 +15,5 @@
   <img align="center" alt="Rafa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
-![Snake animation](https://github.com/Iurymartins46/Iurymartins46/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Iurymartins46/Iurymartins4/blob/output/github-contribution-grid-snake.svg)
  
